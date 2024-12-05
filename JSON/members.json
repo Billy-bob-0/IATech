@@ -40,5 +40,11 @@
         "image": "/images/profiles/michael_flecha.jpg",
         "linkedin": "https://www.linkedin.com/in/michael-flecha",
         "github": "https://github.com/s0up9"
+    },
+    {
+        "name": "Jacob Padilla",
+        "image": "/images/profiles/jacob_padilla.jpg",
+        "linkedin": "https://www.linkedin.com/in/jacob-padilla-a81562265/",
+        "github": "https://github.com/Billy-bob-0"
     }
 ]
